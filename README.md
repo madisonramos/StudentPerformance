@@ -25,4 +25,14 @@ The dataset, sourced from Kaggle, contains student performance data, including a
 ### Expected Outcomes  
 - Identification of key factors influencing student performance in different subjects.  
 - Development of an optimized predictive model that provides more accurate and interpretable results.  
-- Insights into potential interventions to support at-risk students in specific subjects.  
+- Insights into potential interventions to support at-risk students in specific subjects.
+
+### Results
+
+### Discussion and Conclusion 
+
+### Contribution 
+
+### References 
+
+
